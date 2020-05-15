@@ -1,0 +1,2 @@
+rootProject.name='XposedHuaweiHeartBypass'
+include ':app'
